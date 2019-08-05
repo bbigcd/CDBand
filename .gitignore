@@ -348,3 +348,5 @@ healthchecksdb
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
 src/frontend/CDBand/yarn.lock
+.vscode/launch.json
+.vscode/tasks.json
